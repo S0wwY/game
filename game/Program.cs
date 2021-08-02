@@ -96,9 +96,9 @@ namespace game
                         else if (differ <= middlePoint)
                         {
 
-                            Console.WriteLine("u win");//win
+                            Console.WriteLine("u win");
                         }
-                        else Console.WriteLine("u lose");//lose
+                        else Console.WriteLine("u lose");
                     }
                     else if (choice == 0) Console.WriteLine("exit");
                     else Console.WriteLine("not correct");
